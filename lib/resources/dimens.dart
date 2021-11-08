@@ -1,0 +1,24 @@
+/// Generic Dimensions
+const MARGIN_SMALL = 4.0;
+const MARGIN_MEDIUM = 8.0;
+const MARGIN_CARD_MEDIUM_2 = 12.0;
+const MARGIN_MEDIUM_2 = 16.0;
+const MARGIN_LARGE = 24.0;
+const MARGIN_XLARGE = 32.0;
+const MARGIN_MEDIUM_3 = 40.0;
+const MARGIN_XXLARGE = 48.0;
+
+const TEXT_HEADING_1X = 24.0;
+const TEXT_HEADING_2X = 28.0;
+const TEXT_SMALL = 10.0;
+const TEXT_REGULAR = 14.0;
+const TEXT_REGULAR_2X = 16.0;
+const TEXT_REGULAR_3X = 18.0;
+const TEXT_REGULAR_4X = 20.0;
+
+///App Specific
+
+const HOME_TAB_PAGE_SEARCH_BAR_WIDTH = 370.0;
+const HOME_TAB_PAGE_SEARCH_BAR_HEIGHT = 50.0;
+const PROFILE_RADIUS = 25.0;
+
